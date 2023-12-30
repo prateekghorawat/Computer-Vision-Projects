@@ -1,6 +1,6 @@
-# Project Title
+#VIDEO CLASSIFICATION
 
-Brief description of your project.
+Performed Classifcation (Multi Class) on HMDB51_ORG dataset , which is a collection of Videos on 51 Classes. 
 
 ## Overview
 
